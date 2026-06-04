@@ -3,3 +3,85 @@ a.out
 
 # Ignore macOS system files
 .DS_Store
+
+# Ignore everything
+*
+
+# Allow folders
+!*/
+
+# C / C++
+!*.c
+!*.cpp
+!*.cc
+!*.cxx
+!*.h
+!*.hpp
+
+# Java
+!*.java
+
+# Python
+!*.py
+
+# JavaScript / TypeScript
+!*.js
+!*.mjs
+!*.cjs
+!*.ts
+!*.tsx
+
+# Web
+!*.html
+!*.htm
+!*.css
+
+# Other languages
+!*.php
+!*.go
+!*.rs
+!*.kt
+!*.swift
+!*.rb
+!*.sh
+
+# Data / Config
+!*.json
+!*.xml
+!*.yaml
+!*.yml
+!*.toml
+!*.ini
+!*.cfg
+
+# Database
+!*.sql
+
+# Text & Documentation
+!*.txt
+!*.md
+!README*
+!LICENSE*
+
+# PDFs
+!*.pdf
+
+# Images
+!*.png
+!*.jpg
+!*.jpeg
+!*.gif
+!*.svg
+!*.webp
+
+# Office files
+!*.doc
+!*.docx
+!*.ppt
+!*.pptx
+!*.xls
+!*.xlsx
+
+# Git files
+!.gitignore
+!.gitattributes
